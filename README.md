@@ -15,4 +15,8 @@ Easy and quick searching for books that are available in an imaginary shop by im
 2. API Integration Connectivity
 3. Quick Search Feature
 
+# Coclusion:
+
+These key skills demonstrate the multidisciplinary nature of the "LavenderReads - The Boundless Online Library" project and illustrate the breadth of expertise required to create an enchanting and groundbreaking library system.
+
 *Inspiration : Taylor Swift - Enchanted (Taylor's Version) from Speak Now (Taylor's Version) Album*
