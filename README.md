@@ -14,3 +14,5 @@ Easy and quick searching for books that are available in an imaginary shop by im
 1. Conceptualization and Design
 2. API Integration Connectivity
 3. Quick Search Feature
+
+*Inspiration : Taylor Swift - Enchanted (Taylor's Version) from Speak Now (Taylor's Version) Album*
